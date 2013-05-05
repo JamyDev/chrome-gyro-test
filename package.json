@@ -1,0 +1,10 @@
+{ "name": "Motiontest"
+, "version": "0.1.0"
+, "build": "1"
+, "engines": ["node >= 0.6.0"]
+, "main": "server.js"
+, "dependencies":
+  { "express":                "*"
+  , "socket.io":            "latest"
+  }
+}
